@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jason Spitzak, high school sophmore and memeber of the koibots frc team #8230 
+- 👋 Hi, I’m Jason Spitzak, high school sophmore and member of the koibots frc team #8230 
 - 👀 I’m interested in: low level programming and computer graphics
 - 🌱 I’m currently learning: OpenGL, Altair 8800 assembly, rust and c/c++
 - 💞️ I’m looking to collaborate on: anything possible, I am especially interested in open source hardware projects like prusa, open smart watch and similar projects 
